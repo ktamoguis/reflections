@@ -5,8 +5,12 @@ a .git file appears. we need to do it so that future revisions can be tracked.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+staging area is where you add files to group into a commit.
+You can choose files that you think are interdependent into a commit.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+..
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
